@@ -9,7 +9,7 @@ Homer Simpson from *The Simpsons Game* (2007), replacing Viscous in [Deadlock](h
 - Homer's model from *The Simpsons Game*, rigged to Viscous, with a cel-shaded toon look and ink outlines
 - The Lard Lad Donut Bazooka: alt-fire launches a real donut
 - Every ability re-themed, with sound effects from *The Simpsons Game*
-- Nearly 300 Homer voice lines from the game (hero-specific pings keep Viscous's voice so callouts stay clear)
+- Over 350 Homer voice lines from the game (hero-specific pings keep Viscous's voice so callouts stay clear)
 - Custom hero-select scene in the Simpsons' living room, with hero cards and icons
 
 ![Homer](media/homer.jpg)
@@ -40,10 +40,6 @@ Homer Simpson from *The Simpsons Game* (2007), replacing Viscous in [Deadlock](h
 4. Launch the game and pick Viscous.
 
 Game updates can reset `gameinfo.gi`. If the mod stops loading, add the line again.
-
-### Optional text pack
-
-`pak25_dir.vpk` (also on the release) renames the hero to "Viscous Homer", so he keeps his place in the hero list, and renames the abilities, adds Homer ability descriptions and lore, and matches the subtitles to Homer's lines. Put it next to the main VPK. It may need re-downloading after a game patch that changes hero text.
 
 ## Known issues
 
